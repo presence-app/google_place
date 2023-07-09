@@ -4,6 +4,9 @@
 
 ### This project is no longer maintained, and will not receive further updates.
 
+### This is Presence fork to original projetc
+https://github.com/bazrafkan/google_place
+https://pub.dev/packages/google_place
 
 
 
